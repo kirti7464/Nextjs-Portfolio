@@ -1,0 +1,20 @@
+.heading{
+    background-color: rgb(97, 127, 154);
+    font-size: 4rem;
+    padding: 1.5rem;
+    color: white;
+}
+.aboutDesc{
+    font-size: 1.5rem;
+    padding: 13rem 8rem;
+    text-wrap:wrap;
+}
+.wrapper{
+    width:fit-content;
+    font-family: fantasy;
+}
+.lists{
+    display: flex;
+    text-align: center;
+    gap:0.6rem;
+}

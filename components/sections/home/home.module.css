@@ -1,0 +1,23 @@
+.heading{
+    font-size: 4rem;
+    display: table-caption;
+}
+.wrapper{
+    display: flex;
+    gap:5rem;
+    padding: 13rem;
+    background-color: rgb(124, 124, 148);
+    font-family: fantasy;
+}
+
+.Details{
+    margin-top: 8rem;
+    font-size: 1.3rem;
+}
+.highlightedText{
+    color:rgb(233, 233, 189);
+    background-color: rgb(209, 212, 214);
+}
+.highlightedText::first-letter{
+    color: rgb(240, 168, 75);
+}

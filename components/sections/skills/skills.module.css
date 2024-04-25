@@ -1,0 +1,26 @@
+.Details{
+    border-bottom: 1px solid grey;
+    display :flex;
+    padding: 1rem 5rem;
+}
+.wrapper{
+    font-family: fantasy;
+    border: 2px solid rgb(228, 219, 219);
+    margin: 2rem;
+    width: 40rem;
+}
+.heading{
+    background-color: rgb(97, 127, 154);
+    font-size: 4rem;
+    padding: 1.5rem;
+    color: white;
+}
+.mainWrapper{
+    display:contents;
+    gap:2rem;
+    justify-content: center;
+}
+.subDetails{
+    padding: 1rem 3rem;
+    gap:2rem;
+}
